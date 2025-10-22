@@ -24,7 +24,8 @@ The testing went well for all input test and handled wrong input smoothly, succe
 2. **Year Matching:** Recommendations for Year_of_Release included games from nearby years. Implementing exact matches or year bins (e.g., "2000-2005") could improve relevance.
 3. **Case Sensitivity:** Queries such as name: 'wii' fail due to case sensitivity. Adding input normalization (e.g., converting all inputs to lowercase) could improve usability.
 
-### License
-This project is for educational purposes only.
 
+
+
+This project is for educational purposes only.
 by Calista.L
